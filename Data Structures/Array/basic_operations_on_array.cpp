@@ -1,1 +1,0 @@
-//all operations on array
